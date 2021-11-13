@@ -12,7 +12,10 @@
   <a/>
 <p/>
 
-
+> **Get the mp3 files**
+```
+Extract the mp3.rar on the same file that bot.py on
+```  
 > **install requirements**
 ```
 pip install -r requirements.txt
